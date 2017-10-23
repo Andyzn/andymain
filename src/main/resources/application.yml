@@ -1,0 +1,19 @@
+#内嵌服务器相关配置
+#server:
+#  context-path: /
+#  port: 8080
+
+#spring:
+#  freemarker:
+#    cache: false
+#    prefix: /
+
+#  thymeleaf:
+#    mode: LEGACYHTML5
+
+
+#spring:
+#  mvc:
+#    view:
+#      prefix: /WEB-INF/
+#      suffix: .jsp
